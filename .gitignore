@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Codeblock project files
+*.depend
+*.layout
